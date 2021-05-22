@@ -15,7 +15,17 @@ voila notebooks
 
 ### Deploying to Heroku
 
+Ensure you have the heroku CLI installed.
+```
+heroku login
+heroku create YOUR_APP_NAME
+heroku push origin main
+```
+
+Check out the deployed app at [https://interactive-notebook-webapp.herokuapp.com/](https://interactive-notebook-webapp.herokuapp.com/)
+
 
 ### References
 - https://github.com/voila-dashboards/voila
 - https://towardsdatascience.com/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca
+- https://devcenter.heroku.com/articles/creating-apps
