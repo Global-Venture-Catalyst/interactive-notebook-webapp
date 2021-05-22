@@ -15,3 +15,7 @@ voila notebooks
 
 ### Deploying to Heroku
 
+
+### References
+- https://github.com/voila-dashboards/voila
+- https://towardsdatascience.com/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca
